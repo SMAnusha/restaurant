@@ -1,0 +1,279 @@
+#home{
+    background-image: url(https://wallpaperaccess.com/full/3353905.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    background-color: rgba(128, 128, 128, 0.411);
+}
+a{
+    margin-left: 100px;
+    text-decoration: none;
+    color: white;
+    padding-top: 30px;
+}
+a:hover{
+    color: red;
+    font-style: italic;
+}
+.a{
+    color: white;
+    font-size: 30px;
+    padding-top: 0px;
+}
+li{
+    padding-top: 40px;
+}
+.b{
+    border: 1px solid yellow;
+    padding: 1%;
+    margin-left: 200px;
+    background-color: transparent;
+    color: white;
+}
+.b:hover{
+    background-color: red;
+}
+h1{
+    color: white;
+    margin-left: 100px;
+}
+i{
+    color: goldenrod;
+}
+.g{
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+}
+.w:hover{
+  height: 300px;
+  width: 300px; 
+   
+}
+.c{
+    border: 1px solid red;
+    border-radius: 20px;
+    background-color: transparent;
+    padding: 15px;
+    color: white;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-bottom: 200px;
+
+}
+.c:hover{
+    background-color: red;
+}
+#about{
+  background-color: black;
+  display: flex; 
+}
+
+.h{
+    height: 500px;
+    width: 750px;
+    color: whitesmoke;
+    font-size: 20px;
+    font-style: italic;
+    
+}
+#Menu
+{
+    background-color: black;
+    color: red;
+    font-size: 50px;
+}
+.Mhead1,.Shead1,.Ihead1,.Ehead1,.Bhead1,.Ghead1
+{
+    padding-top: 50px;
+    font-size: large;
+    color: gray;
+}
+.Mhead2,.Shead2,.Ihead2,.Ehead2,.Bhead2,.Ghead2
+{
+    padding-top: 40px;
+    font-size: xx-large;
+    color: orange;
+    font-weight: bold;
+}
+.imenu,.ievents,.igallery,.ibook,.ispecials
+{
+    color: gray;
+    font-size: larger;
+}
+.ms1
+{
+    font-size: large;
+}
+.Menu1
+{
+    display: flex;
+}
+#Menua
+{
+    display: flex;
+}
+#Menub
+{
+    display: flex;
+}
+.Menua1
+{
+    width: 40%;
+}
+.Menua2
+{
+    width: 30%;
+}
+.Menub1
+{
+    width: 60%;
+}
+.Menub2
+{
+    width: 70%;
+}
+.Menui1,.Menui3,.Menui5,.Menui7,.Menui9
+{
+    margin-left: 100px;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+.Menui2,.Menui4,.Menui6,.Menui8
+{
+    margin-right: 150px;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+.Menub1
+{
+    margin-right: 150px;
+    color: white;
+    font-size: large;
+}
+.b1a:hover
+{
+    color: orange;
+}
+.b1b:hover
+{
+    color: orange;
+}
+.b1c:hover
+{
+    color: orange;
+}
+.b1d:hover
+{
+    color: orange;
+}
+.b1e:hover
+{
+    color: orange;
+}
+.Menub2
+{
+    margin-right: 10px;
+    color: white;
+    font-size: large;
+}
+.b2a:hover
+{
+    color: orange;
+}
+.b2b:hover
+{
+    color: orange;
+}
+.b2c:hover
+{
+    color: orange;
+}
+.b2d:hover
+{
+    color: orange;
+}
+#specials{
+    background-image: url(https://wallpapercave.com/wp/wp1874155.jpg);
+}
+.img{
+    height: 500px;
+    width: 500px;
+    margin-left: 100px;   
+}
+.img:hover{
+    height: 450px;
+    width: 450px;
+}
+.z{
+    font-size: 35px;
+}
+
+#specials{
+  
+    color: darkorange;
+    font-size: 50px;
+}
+.f{
+    display: flex;
+}
+.s{
+    height: 300px;
+    width: 400px;
+    background-color: gray;
+    color: white;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.t{
+    height: 300px;
+    width: 400px;
+    background-color: gray;
+    color: white;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.u{
+    height: 300px;
+    width: 400px;
+    background-color: gray;
+    color: white;
+    margin-left: 100px;
+    font-size: 20px;
+}
+#events{
+    background-color: black;
+    color: red;
+    font-size: 50px;
+}
+#gallery{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 50px;
+}
+.img1:hover{
+    height: 300px;
+    width: 300px;
+}
+.img2:hover{
+    height: 300px;
+    width: 300px;
+}
+.img3:hover{
+    height: 300px;
+    width: 300px;
+}
+.img4:hover{
+    height: 300px;
+    width: 300px;
+}
+#book{
+    background-color: black;
+    color: red;
+    font-size: 50px;
+}
